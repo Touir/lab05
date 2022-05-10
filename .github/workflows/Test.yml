@@ -1,4 +1,4 @@
-name: Banking
+name: Test
 
 on:
   push:
